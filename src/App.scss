@@ -99,17 +99,19 @@ body {
     }
   }
   header {
-    margin: 80px 0;
+    margin: 45px 0;
     text-align: center;
     h1{
       color: $primarycolor;
       font-weight: 900;
       font-size: 80px;
+      margin-bottom: 20px;
     }
     h3{
       color: #101010;
       font-weight: 900;
       font-size: 50px;
+      background-color: $primarycolor;
     }
   }
   .card-container {
